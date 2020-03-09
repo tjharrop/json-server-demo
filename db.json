@@ -1,0 +1,15 @@
+{
+  "practitioners": [
+    { "id": 1, "practiceType": "corp", "name": "Building Design Company", "is-active": "yes", "validDate": "2019-09-02T10:36:47+00:00" },
+    { "id": 2, "practiceType": "corp", "name": "Building Design Person", "is-active": "yes", "validDate": "2019-09-02T10:36:47+00:00" },
+    { "id": 3, "practiceType": "individual", "name": "Building Company", "is-active": "yes", "validDate": "2019-09-02T10:36:47+00:00" },
+    { "id": 4, "practiceType": "individual", "name": "Building Practitioner", "is-active": "yes", "validDate": "2019-09-02T10:36:47+00:00" },
+    { "id": 5, "practiceType": "corp", "name": "Building Design Company", "is-active": "no", "validDate": "2019-09-02T10:36:47+00:00" },
+    { "id": 6, "practiceType": "corp", "name": "Building Design Person", "is-active": "no", "validDate": "2019-09-02T10:36:47+00:00" },
+    { "id": 7, "practiceType": "individual", "name": "Building Company", "is-active": "no", "validDate": "2019-09-02T10:36:47+00:00" },
+    { "id": 8, "practiceType": "individual", "name": "Building Practitioner", "is-active": "no", "validDate": "2019-09-02T10:36:47+00:00" }
+  ],
+  "profile": {
+    "name": "getPractitioners"
+  }
+}
